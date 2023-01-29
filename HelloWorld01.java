@@ -1,6 +1,6 @@
-// Name of programmer:Derrick Petty
-// Name of program:Hello World
-// Date started:28Jan23
+// Name of programmer:
+// Name of program:
+// Date started:
 //
 // Description of program: Ask user for her first name and echo back in a greeting.
 // Input/Processing/Output: user input in console, output is System.out in console
